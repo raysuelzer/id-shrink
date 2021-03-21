@@ -1,0 +1,21 @@
+{
+  "name": "id-shrink",
+  "version": "0.0.1",
+  "description": "Utility to compress and decompress a range of numeric ids",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest"
+  },
+  "keywords": [
+    "Compression"
+  ],
+  "author": "Ray Suelzer",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/jest": "^26.0.21",
+    "jest": "^26.6.3",
+    "ts-jest": "^26.5.4",
+    "typescript": "^4.2.3"
+  }
+}
